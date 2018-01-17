@@ -1,0 +1,32 @@
+Dennis Ritchie - 
+	Unix was one of the first operating systems designed for the personal computers. Late 60's to early 70's were
+	the age of the mini computer. First computers that did not require a mainframe and were cheap enough for many 
+	companies to purchase, began the start of the decentralization of computing. Many smartphones run versions of
+	linux, which uses and is derived from Unix.
+
+Bjarne Stroustrup-
+	In the beginning of coding, you had to write load and store instructions, and had had to play about with bits 
+	and bytes, but it was very specialized. Figured out you could write languages for computers that were fit for
+	humans. Classes were introduced, making heirarchical staging possible, this was the basis of object-orriented 
+	programming. Combine object-orriented programming and low level programming, at the time the language C, and
+	combined them into C++, making a more efficient easily used language. Widely used due to its ability to used 
+	abstractions and have them so efficent you can afford it in infrastructure,access hardware directly, and its 
+	stability.
+
+Bell Labs Unix-
+	Large project tend to take a long time, cost a lot of money, and team members are often unsatisfied, so many
+	people are looking for better answers, for a problem that is very hard, with no real end. Unix is written at 
+	Bell Labs by many people, but not enough skilled individuals to produce. Many people demand that software
+	does many new features, unlike hardware where people know that it cant change easily. Software is best when it 
+	is change tolerant, so it can be used in the future, rather than just using it for a short time. It is 
+	estimated that it took 5000 staff years to program the operating system for IBM's 360 series computers, not
+	something that happens often. Unix is made up of three layers, first the kernal, then the shell, and lastly 
+	is utilities. Think of the Unix sections as the building blocks of programming.
+
+Linus Torvalds-
+	Linus Torvalds is the man behind the operating system called Linux, which he began as a personal project for
+	himself rather than the massive open source program it is today. He originally was amazed by the idea of open
+	source, the feedback he got, the help, everything was since he gave linux out as an open source program. He
+	works with thousands of people and they each help with every iteration of linux. He talks about how he doesnt
+	feel mad about companies like Google making billions of dollars after using his creations in their products. 
+	
